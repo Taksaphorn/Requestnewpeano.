@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  font-size: medium;
+}
+
+.box {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 12px;
+  color: rgba(133, 0, 180, 1);
+  width: 423.5px;
+  height: 400.5px;
+  background-color: rgba(236, 222, 236, 1);
+}
